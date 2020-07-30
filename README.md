@@ -1,5 +1,5 @@
 ## Hello I'm Tuhin 😎
-<a href="https://www.linkedin.com/in/tuhin-subhra-samanta-56466166/">
+### <a href="https://www.linkedin.com/in/tuhin-subhra-samanta-56466166/">
   <img align="left" alt="My Linkdein Page" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/tuhinssam">
