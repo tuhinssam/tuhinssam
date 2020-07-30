@@ -26,5 +26,5 @@
      <a href="https://forum.uipath.com/u/Tuhin_Samanta">UiPath Profile</a><br/>
      <a href="mailto:tuhinssam@gmail.com">Mail Me </a>
  
-- 💜 Interests: Love Travelling, Painting, Indaian Mythology
+- 💜 Interests: Love Travelling, Painting, Indian Mythology
 - ⚡ Fun fact: I sing loud and that too without melody 😎
