@@ -24,4 +24,4 @@
      <a href="mailto:tuhinssam@gmail.com">Mail Me </a>
  
 - 💜 Interests: Love Travelling, Painting, Indaian Mythology
-- ⚡ Fun fact: I sing loud and tah too without melody :P
+- ⚡ Fun fact: I sing loud and tah too without melody 😎
