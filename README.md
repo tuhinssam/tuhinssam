@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**tuhinssam/tuhinssam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Automations, UiPath RPA implementations, Machine Learning
 - 🌱 I’m currently learning Docker and CI/CD pipeline, API design
@@ -13,4 +7,4 @@ Here are some ideas to get you started:
 - 📫 Reach me www.tuhinsamanta.info
 - 💜 Interests: Love Travelling, Painting
 - ⚡ Fun fact: I am a bathroom singer, I sing loud and without melody :P
--->
+
