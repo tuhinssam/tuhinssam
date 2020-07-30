@@ -15,9 +15,9 @@
 - 🤔 I’m looking for help with **Design Principles, system design**
 - 💬 Ask me about **RPA, Automations, Integrations, Data Science**
 - 📫 Reach me through: 
-     <a href="http://www.tuhinsamanta.info">My Website</a><br/>
+     <br/><a href="http://www.tuhinsamanta.info">My Website</a><br/>
      <a href="https://forum.uipath.com/u/Tuhin_Samanta">UiPath Profile</a><br/>
-     <a href="mailto:tuhinssam@gmail.com">Mail Me </a><br/>
+     <a href="mailto:tuhinssam@gmail.com">Mail Me </a>
  
 - 💜 Interests: Love Travelling, Painting, Indaian Mythology
 - ⚡ Fun fact: I sing loud and tah too without melody :P
