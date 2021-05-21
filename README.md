@@ -8,7 +8,7 @@
 <a href="mailto:tuhinssam@gmail.com">
   <img align="left" alt="Mail me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mail-dot-ru.svg" />
 </a>
-<a href="http://www.tuhinsamanta.info">
+<a href="http://tuhinssamanta.herokuapp.com/">
   <img align="left" alt="My Github Page" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/wikipedia.svg" />
 </a>
 <br/>
