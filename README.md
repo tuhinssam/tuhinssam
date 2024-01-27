@@ -18,11 +18,11 @@
 - 🔭 I’m currently working on Automations
 - 👯 I’m looking to collaborate on new projects related to **Gen AI App Development, Machine Learning, API Design**
 - 🤔 I’m looking for help with **Design Principles, system design**
-- 💬 Ask me about **RPA, Automations, Integrations, Data Science**
+- 💬 Ask me about **Backend Development, Automations, Integrations, Data Science**
 - 📫 Reach me through: 
      <br/><a href="http://www.tuhinsamanta.info">My Website</a><br/>
      <a href="https://www.linkedin.com/in/tuhin-subhra-samanta-56466166/">My Linkedin Page </a><br/>
      <a href="https://forum.uipath.com/u/Tuhin_Samanta">UiPath Profile</a><br/>
      <a href="mailto:tuhinssam@gmail.com">Mail Me </a>
  
-- 💜 Interests: Love Travelling, Painting, Indian Mythology
+- 💜 Interests: Travelling, Painting, Indian Mythology
